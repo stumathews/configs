@@ -23,3 +23,7 @@ map  <Esc>[8~ <End>
 
 imap <Esc>[7~ <Home>
 imap <Esc>[8~ <End>
+
+" indending...automatically
+set smartindent
+set autoindent
